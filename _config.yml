@@ -6,16 +6,16 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: "123"
+title: "路过人间"
 description: Eve31's blog ❤
-# github_username: eve31
+github_username: eve31
 
 # Email and twitter are optional:
 email:
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math:true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
